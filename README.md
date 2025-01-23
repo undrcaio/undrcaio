@@ -3,7 +3,7 @@
  <div>
    <a href="https://github.com/undrcaio">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=undrcaio&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undrcaio&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=undrcaio&layout=compact&langs_count=6&theme=darcula"/>
 </div>
  
 <br>
